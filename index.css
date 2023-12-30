@@ -1,0 +1,14 @@
+#p1{
+    font-size: 25px;
+   font-style:italic;
+   color: #00c8ff;
+   text-align: right;
+}
+@font-face {
+    font-family: vazir;
+    src: url(./Vazir.woff2) format(woff2);
+ }
+ body{
+    font-family: vazir;
+    background-color: rgb(255, 238, 0);
+ }
